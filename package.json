@@ -1,0 +1,14 @@
+{
+  "name": "kineviz-test-app",
+  "version": "3.1.4",
+  "description": "Enjoy your data",
+  "main": "index.html",
+  "neo4jDesktop": {
+    "apiVersion": "^1.2.0"
+  },
+  "icons": [{
+    "src": "manifest.svg",
+    "type": "svg"
+  }],
+  "dependencies": {}
+}
